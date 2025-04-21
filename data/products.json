@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Running Shoes",
+      "price": 89.99,
+      "category": "Fashion",
+      "image": "images/shoes.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Ceramic Mug",
+      "price": 12.49,
+      "category": "Home",
+      "image": "images/ceramic mug.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 129.99,
+      "category": "Electronics",
+      "image": "images/smart watch.png"
+    },
+    {
+      "id": 5,
+      "name": "Office Chair",
+      "price": 149.00,
+      "category": "Furniture",
+      "image": "images/office chair.png"
+    },
+    {
+      "id": 6,
+      "name": "Sunglasses",
+      "price": 24.99,
+      "category": "Accessories",
+      "image": "images/sunglassess.png"
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "price": 39.99,
+      "category": "Electronics",
+      "image": "images/bluetooth-speaker.png"
+    },
+    {
+      "id": 8,
+      "name": "Backpack",
+      "price": 45.00,
+      "category": "Accessories",
+      "image": "images/backpack.png"
+    },
+    {
+      "id": 9,
+      "name": "Desk Lamp",
+      "price": 22.50,
+      "category": "Home",
+      "image": "images/desk-lamp.png"
+    },
+    {
+      "id": 10,
+      "name": "Yoga Mat",
+      "price": 29.99,
+      "category": "Fitness",
+      "image": "images/yoga-mat.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "category": "Electronics",
+      "image": "images/wireless-mouse.png"
+    },
+    {
+      "id": 12,
+      "name": "Mechanical Keyboard",
+      "price": 74.99,
+      "category": "Electronics",
+      "image": "images/mechanical-keyboard.png"
+    },
+    {
+      "id": 13,
+      "name": "Water Bottle",
+      "price": 15.00,
+      "category": "Accessories",
+      "image": "images/water-bottle.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Notebook",
+      "price": 6.99,
+      "category": "Stationery",
+      "image": "images/notebook.png"
+    },
+    {
+      "id": 15,
+      "name": "Portable Charger",
+      "price": 34.99,
+      "category": "Electronics",
+      "image": "images/portable-charger.png"
+    },
+    {
+      "id": 16,
+      "name": "Fitness Tracker",
+      "price": 49.99,
+      "category": "Fitness",
+      "image": "images/fitness-tracker.jpeg"
+    }
+  ]
+  
